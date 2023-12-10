@@ -21,7 +21,7 @@ VigenereMobile is a simple Android application that allows users to encrypt and 
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/your-username/VigenereMobile.git
+    git clone https://github.com/WillGolden80742/VigenereMobile.git
     ```
 
 2. Open the project in Android Studio.
